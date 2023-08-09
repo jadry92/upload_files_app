@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=UploadFilesApp
+POSTGRES_USER=SomeRandomUser
+POSTGRES_PASSWORD=S5xvDgIagz20wYEziR6VcKRH7TUuwS1dFV
